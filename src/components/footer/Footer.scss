@@ -1,0 +1,36 @@
+.footer {
+    color: grey;
+    padding: 2rem 1rem;
+    font-size: 0.8rem;
+    a {
+        text-decoration: none;
+        color: inherit;
+    }
+    .container {
+        max-width: 980px;
+        margin: 0 auto;
+    }
+    &__socials {
+        margin-left: -0.2rem;
+        padding: 1rem 0;
+        .footer__social {
+            margin-right: 1.1rem;
+            svg {
+                font-size: 2.2rem;
+            }
+        }
+    }
+    &__links {
+        display: flex;
+        flex-wrap: wrap;
+        list-style: none;
+        .footer__link {
+            flex:1 0 50%;
+            margin-bottom: 1rem;
+            @media screen and (min-width:768px) {
+                flex:1 0 25%;
+            }
+        }
+    }
+
+}
