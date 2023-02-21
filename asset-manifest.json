@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netflix-trainning/static/css/main.37dc29f7.css",
+    "main.js": "/Netflix-trainning/static/js/main.31f920e6.js",
+    "index.html": "/Netflix-trainning/index.html",
+    "main.37dc29f7.css.map": "/Netflix-trainning/static/css/main.37dc29f7.css.map",
+    "main.31f920e6.js.map": "/Netflix-trainning/static/js/main.31f920e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37dc29f7.css",
+    "static/js/main.31f920e6.js"
+  ]
+}
